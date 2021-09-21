@@ -16,3 +16,7 @@ Datum: World Geodetic System 1984
 - Ellipsoid: WGS 84
 - Prime Meridian: Greenwich
 ```
+
+Note:
+
+The shapefile only contains the `REGION` name and the `geometry` columns. Further, the region name has not been standardized to match the names of the region in the Philippine Standard Geographic Classification. Also, the region `NCR` is named `Metropolitan Manila`.
